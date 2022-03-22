@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "department": "Toys",
+      "productName": "Handmade Rubber Keyboard",
+      "product": "Bike"
+    },
+    {
+      "id": 2,
+      "department": "Shoes",
+      "productName": "Intelligent Plastic Table",
+      "product": "Pizza"
+    },
+    {
+      "id": 3,
+      "department": "Kids",
+      "productName": "Generic Concrete Keyboard",
+      "product": "Gloves"
+    },
+    {
+      "id": 4,
+      "department": "Computers",
+      "productName": "Incredible Metal Pants",
+      "product": "Soap"
+    },
+    {
+      "id": 5,
+      "department": "Health",
+      "productName": "Handmade Plastic Sausages",
+      "product": "Chair"
+    },
+    {
+      "department": "hh",
+      "productName": "fdg",
+      "product": "g",
+      "id": 6
+    }
+  ]
+}
